@@ -14,10 +14,13 @@ This project is a mockup website for Converse, built using **WordPress**, **Elem
 
 ## 🖼️ Screenshots
 ![Landing Page](https://i.imgur.com/kLboCvC.jpeg)
+###### Landing Page
 ![Shop Catalog](https://i.imgur.com/3MS5bjv.png)
+###### Shop Catalog
 ![Cart](https://i.imgur.com/YCiolSk.png)
+###### Cart
 ![Checkout](https://i.imgur.com/whcwCDZ.png)
-*(Add relevant screenshots here)*
+###### Checkout Page
 
 ---
 
